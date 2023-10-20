@@ -6,7 +6,7 @@
 
 	- TeamMember:
 		1. ChoiTaeyoung
-		2. Kim Dohyun
+		2. Kim Dohyeon
 		3. Kang Gayeon
 		4. Kim Daeun
 		5. Jang Woong
