@@ -1,4 +1,6 @@
-BigData5 Team project:
+<details>
+<summary>접기/펼치기</summary>
+ BigData5 Team project:
 
 	- TeamName: Daespa
 
@@ -11,3 +13,4 @@ BigData5 Team project:
 
 	- ProjectLIst:
 		1. 쇼핑몰 분석과제
+</details>
