@@ -2,7 +2,7 @@
 <summary>접기/펼치기</summary>
  BigData5 Team project:
 
-	- TeamName: Daespa
+	- TeamName: BABOO
 
 	- TeamMember:
 		1. ChoiTaeyoung
