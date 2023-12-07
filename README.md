@@ -12,4 +12,5 @@
 		O: 김도현
 	- ProjectLIst:
 		1. 쇼핑몰 분석과제
+  		2. 크롤링 과제
 </details>
